@@ -11,5 +11,8 @@ hello panda!
 hello panda!
 hello panda!
 hello panda!
+<<<<<<< HEAD
 hello panda! master test
-hello Python!
+=======
+hello Python! hot-fix test
+>>>>>>> hot-fix
